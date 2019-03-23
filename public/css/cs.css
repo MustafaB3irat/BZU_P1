@@ -1,0 +1,26 @@
+.card{
+   margin-top:80px;
+    color: #2C3034;
+}
+.card-body{
+    color: #2C3034;
+}
+
+body{
+  background: url('../images/wallpaper.jpg') no-repeat;
+    background-size: cover;
+}
+
+
+
+label{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
+textarea{
+    margin-bottom: 20px;
+}
+
+
